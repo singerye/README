@@ -10,11 +10,12 @@
 (以下均熟练使用且有实际项目经验)
 - Web开发：PHP/前端
 - Web框架：Laravel/ThinkPHP
-- 前端框架：Vue/React/Bootstrap/ Semantic
+- 前端框架：Vue/React/Bootstrap/Semantic
 - 缓存相关：Swoole/Redis
 - 数据库相关：MySQL/MongoDB
-- 版本管理、文档和自动化部署工具：Svn/Git/Composer/npm/jspm
-- 开发工具：vagrant/homestead/phpstorm
+- 版本管理、文档和自动化部署工具：Svn/Git/Composer/Npm/Jspm
+- 开发工具：homestead/phpstorm
+- linux：vim命令行操作/项目部署
 
 ## 工作经历 
 
@@ -34,7 +35,6 @@
 #### 3.海购乐乐微信公众号商城
 
 此项目为海购广场的微信公众号商城项目，我负责该项目接口二次开发与前端开发。该项目为二次开发，最初使用laravel框架，接口已经趋于完善，但是上个程序员编写习惯不利于二次开发，我在此项目中对以往代码进行了优化。使用面向对象的方法将公用的api统一，将不同的api进行分离。将原有的Jquery前端渲染方式改为Vue，经过探讨选择element-ui为基本框架进行开发，对实现商城收藏，添加购物车等功能的无刷新触发起到了重要作用。
-
 
 #### 4.乐办公
 
