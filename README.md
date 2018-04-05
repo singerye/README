@@ -13,9 +13,9 @@
 - 前端框架：Vue/React/Bootstrap/Semantic
 - 缓存相关：Swoole/Redis
 - 数据库相关：MySQL/MongoDB
+- 开发工具：phpstorm/homestead
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer/Npm/Jspm
-- 开发工具：homestead/phpstorm
-- linux：vim命令行操作/项目部署
+
 
 ## 工作经历 
 
