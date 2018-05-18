@@ -1,26 +1,26 @@
- - 王野/男/1995
- - 本科/烟台大学南山学院 
- - 工作年限：2年
- - 技术博客：http://nsxxs.com
+- 王野/男/1995
+- 工作年限：1年 
+- 技术博客：http://nsxxs.com
 - 手机：18315804678
 - Email：w258765@gmail.com 
 - QQ：3315510010
     
 ## 技能清单
 (以下均熟练使用且有实际项目经验)
-- Web开发：PHP/前端
+- Web开发：前端/PHP
+- 前端框架：Vue/React
 - Web框架：Laravel/ThinkPHP
-- 前端框架：Vue/React/Bootstrap/Semantic
 - 并发与缓存：Swoole/Redis
 - 数据库相关：MySQL/MongoDB
-- 开发工具：PHPstorm/Homestead
+- 开发工具：Vim/Webstorm/PHPstorm
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer/Npm/Jspm
+
 
 
 ## 工作经历 
 
 
-### 青岛艾玛科技公司--PHP （ 2016年5月 ~ 2018年3月 ）
+### 青岛艾玛科技公司--前端（ 2016年5月 ~ 2018年3月 ）
 
 
 #### 1.海信广场WEB账务系统
